@@ -1,0 +1,24 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://fufetane.github.io/sitemap/sitemap_index.fufetane
+Sitemap: https://fufetane.github.io/Fty/sitemap_index.fufetane
+Sitemap: https://fufetane.github.io/Ols/sitemap_index.fufetane
+Sitemap: https://fufetane.github.io/unq/sitemap_index.fufetane
+Sitemap: https://fufetane.github.io/CxJ/sitemap_index.fufetane
+Sitemap: https://fufetane.github.io/VMh/sitemap_index.fufetane
+Sitemap: https://fufetane.github.io/Nmq/sitemap_index.fufetane
+Sitemap: https://fufetane.github.io/Xao/sitemap_index.fufetane
+Sitemap: https://fufetane.github.io/tMO/sitemap_index.fufetane
+Sitemap: https://fufetane.github.io/rHP/sitemap_index.fufetane
+Sitemap: https://fufetane.github.io/Uwg/sitemap_index.fufetane
+Sitemap: https://fufetane.github.io/GrE/sitemap_index.fufetane
+Sitemap: https://fufetane.github.io/Ync/sitemap_index.fufetane
+Sitemap: https://fufetane.github.io/Flk/sitemap_index.fufetane
+Sitemap: https://fufetane.github.io/upZ/sitemap_index.fufetane
+Sitemap: https://fufetane.github.io/KFT/sitemap_index.fufetane
+Sitemap: https://fufetane.github.io/IcO/sitemap_index.fufetane
+Sitemap: https://fufetane.github.io/pcq/sitemap_index.fufetane
+Sitemap: https://fufetane.github.io/gUS/sitemap_index.fufetane
+Sitemap: https://fufetane.github.io/bMJ/sitemap_index.fufetane
+Sitemap: https://fufetane.github.io/KSk/sitemap_index.fufetane
